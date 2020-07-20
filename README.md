@@ -1,4 +1,4 @@
-# NPS_Blockchain Project (Summer 2020)
+# Naval Postgraduate School Blockchain Project (Summer 2020)
 ## Project Description
 Created a Blockchain network with peer nodes and associated smart contracts in order to demo how the Department of Navy can use Blockchain to facilitate food, medical equipment, and other types of shipments from producers (contractors) to bases, using checkpoint managers.
 
